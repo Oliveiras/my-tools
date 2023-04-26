@@ -21,9 +21,9 @@ All tools expect the options to be passed as program arguments using `getopts` f
 
 ### Common options
 
-**-C**	Creates a new resource.
-**-R**	Reads a resource.
-**-U**	Updates a resource.
-**-D**	Deletes a resource.
-**-H**	Show help and exit.
+- **-C**    Creates a new resource.
+- **-R**    Reads a resource.
+- **-U**    Updates a resource.
+- **-D**    Deletes a resource.
+- **-H**    Show help and exit.
 
